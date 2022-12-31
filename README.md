@@ -9,7 +9,7 @@ This script uses the Scapy library to sniff network traffic and identify JA3 fin
 ## Installation
 1. Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/ja3_fingerprint.git
+git clone https://github.com/berkantrl/JA3-fingerprint.git
 ```
 2. Install the required libraries:
 ```
