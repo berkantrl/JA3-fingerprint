@@ -22,7 +22,7 @@ python ja3_fingerprint.py
 ```
 The script will begin sniffing network traffic and printing JA3 fingerprints for TLS client hello packets to the console.
 
-Notes
+## Notes
 - The script must be run with privileges to capture network traffic (e.g., with sudo on Linux).
 - The script may not work on all systems due to differences in network configuration and available interfaces.
 - The script may produce false positives or negatives due to variations in TLS client hello packets.
